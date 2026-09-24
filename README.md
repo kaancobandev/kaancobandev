@@ -13,7 +13,7 @@ designed, built and maintain on my own.
 ### What I'm working on
 
 **[Basementonfire](https://basementonfire.com)** — Content and community
-platform · Next.js 15, React 19, TypeScript, Supabase
+platform · Next.js 15, React 19, TypeScript, Supabase<br>
 204 routes · 80 API endpoints · 50 tables with row-level security
 
 **Metrikam** — Offline-first construction site management app ·

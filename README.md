@@ -14,7 +14,7 @@ designed, built and maintain on my own.
 
 **[Basementonfire](https://basementonfire.com)** — Content and community
 platform · Next.js 15, React 19, TypeScript, Supabase<br>
-204 routes · 80 API endpoints · 50 tables with row-level security
+82 pages · 84 API routes · 53 tables · authorization enforced in API route handlers
 
 **Metrikam** — Offline-first construction site management app ·
 React Native, Expo, SQLite, PostgreSQL
